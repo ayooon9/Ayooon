@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مسابقة سؤال وجواب</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+        }
+        .question {
+            margin: 20px 0;
+            padding: 10px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .question h2 {
+            margin: 0 0 10px;
+        }
+        .prizes {
+            margin-top: 30px;
+            padding: 10px;
+            background-color: #e7f5e8;
+            border: 1px solid #4CAF50;
+            border-radius: 5px;
+        }
+        .prizes h2 {
+            margin-top: 0;
+        }
+        footer {
+            text-align: center;
+            margin: 20px 0;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>مسابقة سؤال وجواب</h1>
+        
+        <div class="question">
+            <h2>1. ما هو أكبر كوكب في النظام الشمسي؟</h2>
+            <p>الجواب: المشتري</p>
+        </div>
+        
+        <div class="question">
+            <h2>2. ما هو عاصمة اليابان؟</h2>
+            <p>الجواب: طوكيو</p>
+        </div>
+        
+        <div class="question">
+            <h2>3. من هو الكاتب العربي الذي نال جائزة نوبل في الأدب عام 1988؟</h2>
+            <p>الجواب: نجيب محفوظ</p>
+        </div>
+        
+        <div class="question">
+            <h2>4. ما هو الحيوان الوطني في أستراليا؟</h2>
+            <p>الجواب: الكنغر</p>
+        </div>
+        
+        <div class="question">
+            <h2>5. من هو مؤسس شركة مايكروسوفت؟</h2>
+            <p>الجواب: بيل غيتس</p>
+        </div>
+        
+        <div class="question">
+            <h2>6. في أي سنة وقعت معركة واترلو؟</h2>
+            <p>الجواب: 1815</p>
+        </div>
+        
+        <div class="question">
+            <h2>7. ما هو اسم أطول نهر في العالم؟</h2>
+            <p>الجواب: نهر النيل</p>
+        </div>
+        
+        <div class="question">
+            <h2>8. من هو الملحن الذي ألف "الفصول الأربعة"؟</h2>
+            <p>الجواب: أنطونيو فيفالدي</p>
+        </div>
+        
+        <div class="question">
+            <h2>9. ما هي أكبر قارة من حيث المساحة؟</h2>
+            <p>الجواب: آسيا</p>
+        </div>
+        
+        <div class="question">
+            <h2>10. ما هو اسم العملة الرسمية في المملكة العربية السعودية؟</h2>
+            <p>الجواب: الريال السعودي</p>
+        </div>
+        
+        <div class="prizes">
+            <h2>الجوائز</h2>
+            <p>سيتم اختيار ثلاثة فائزين.</p>
+            <p>كل فائز سيحصل على جائزة بقيمة 100 ريال سعودي.</p>
+        </div>
+    </div>
+    
+    <footer>
+        <p>© 2024 مسابقة سؤال وجواب. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
